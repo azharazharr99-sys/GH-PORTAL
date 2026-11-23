@@ -1,5 +1,5 @@
 // Ganti URL berikut dengan tautan undangan grup WhatsApp GEO HISTORY.
-const GEO_HISTORY_WHATSAPP = "https://wa.me/";
+const GEO_HISTORY_WHATSAPP = "https://chat.whatsapp.com/Bl02rVq1H2i17mgE3mwgxX";
 
 const joinButton = document.getElementById("joinButton");
 if (joinButton) joinButton.href = GEO_HISTORY_WHATSAPP;
