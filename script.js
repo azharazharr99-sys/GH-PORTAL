@@ -1,4 +1,3 @@
-
 const ghForm = document.getElementById("ghForm");
 
 ghForm.addEventListener("submit", function(event) {
